@@ -1,0 +1,13 @@
+﻿  tapeEquilibrium.cpp
+  permMissingElem.cpp
+  oddOccuranceArray.cpp
+  Main.cpp
+  frogJump.cpp
+  cyclicRotation.cpp
+  binaryGap.cpp
+  Generating Code...
+c:\users\administrator\desktop\codility_sample\codility_sample\oddoccurancearray.cpp(18): warning C4715: 'solution': not all control paths return a value
+oddOccuranceArray.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Main.obj
+permMissingElem.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Main.obj
+tapeEquilibrium.obj : error LNK2005: "int __cdecl solution(class std::vector<int,class std::allocator<int> > &)" (?solution@@YAHAAV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in Main.obj
+C:\Users\Administrator\Desktop\codility_sample\Debug\codility_sample.exe : fatal error LNK1169: one or more multiply defined symbols found
